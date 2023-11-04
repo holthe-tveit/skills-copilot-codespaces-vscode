@@ -1,4 +1,4 @@
-// Create Web Server
+// Create web server
 // Step 1: Create a server object
 // Step 2: Create a port to listen for requests
 // Step 3: Write a response to the client
